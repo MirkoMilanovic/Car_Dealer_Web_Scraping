@@ -1,0 +1,51 @@
+if (!1) {document.write("<div id='ktsgodljpftikllohfegwrji'></div>");}
+(_gdeaq = window._gdeaq || []).push(['nc', 'false']);
+(_gdeaq = window._gdeaq || []).push(['gdpr_consent', '']);
+if (0) {(_gdeaq = window._gdeaq || []).push(['roc', 'true']);
+(_gdeaq = window._gdeaq || []).push(['plain']);
+}(_gdeaq = window._gdeaq || []).push(['hit', 'gders', 'py01NL_X3VI8Jxawx2JWobPWP6L_d_827HcnvUekHpz.l7', 'olgjcwnkcy', 'lajawrvhdfllthdjwwqazihpbvlg']);
+if(1){(function() {var s = document.getElementsByTagName("script")[0];var xgde = document.createElement("script");xgde.async = true;xgde.src = "https://gders.hit.gemius.pl/gdejs/xgde.js";s.parentNode.insertBefore(xgde, s);})();}else{document.write('<scr' + 'ipt type="text/javascript" src="https://gders.hit.gemius.pl/gdejs/xgde.js"> </scr' + 'ipt>');}
+
+
+;(_gdeaq = window._gdeaq || []).push(['require', [
+   "https://rsgde.adocean.pl/files/js/billboard_v2.async.js"
+ ], function(billboard) {
+    var config = {
+        unique: 'ktsgodljpftikllohfegwrji',
+        targetID: "_9c8o7j6qk_1612355702203" || "ktsgodljpftikllohfegwrji",
+        inscreenHiturl: 'https://gders.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=py01NL_X3VI8Jxawx2JWobPWP6L_d_827HcnvUekHpz.l7/stparam=lmnpfthpmt/roc=0',
+
+        width: '300',
+        height: '600',
+        align: '1',
+        responsive: false,
+
+        html5: 'https://rsgde.adocean.pl/files/akacfmkjodu/vhiehjdkkl/rgrelsqfjh/300x600.html',
+        htmlFiFCode: "",
+        image: '',
+
+        extraContainer: {
+            display: false,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        clickTagOverlay: true,
+
+        snowEffect: false,
+        clickTag: ('https://adocean-si.hit.gemius.pl/hitredir/id=nLrrqQBGrK2hM.34c1QaZLdNHWvYZe8OpTLAR5JioOL.a7/stparam=lbmtlqdhvj/fastid=jhbulwxbxvqeuvgdobwnvfbxnimr/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=https://gders.hit.gemius.pl/lshitredir/id=py01NL_X3VI8Jxawx2JWobPWP6L_d_827HcnvUekHpz.l7/fastid=nvlzhnlmhlakkybrmzqofqbhzvmx/stparam=ymegjqrtwo/roc=0/url=') ? 'https://adocean-si.hit.gemius.pl/hitredir/id=nLrrqQBGrK2hM.34c1QaZLdNHWvYZe8OpTLAR5JioOL.a7/stparam=lbmtlqdhvj/fastid=jhbulwxbxvqeuvgdobwnvfbxnimr/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=https://gders.hit.gemius.pl/lshitredir/id=py01NL_X3VI8Jxawx2JWobPWP6L_d_827HcnvUekHpz.l7/fastid=nvlzhnlmhlakkybrmzqofqbhzvmx/stparam=ymegjqrtwo/roc=0/url=' + encodeURIComponent('https://www.vipmobile.rs/privatni/device/huawei_p_smart_2021?utm_source=[13]polovniautomobili.com_unustrasnje_strane&utm_medium=aw_ld_html_300x600_huawei&utm_campaign=202102_hw_ulov-februar') : 'https://www.vipmobile.rs/privatni/device/huawei_p_smart_2021?utm_source=[13]polovniautomobili.com_unustrasnje_strane&utm_medium=aw_ld_html_300x600_huawei&utm_campaign=202102_hw_ulov-februar',
+        redirection: "clickTag="+encodeURIComponent("https://adocean-si.hit.gemius.pl/hitredir/id=nLrrqQBGrK2hM.34c1QaZLdNHWvYZe8OpTLAR5JioOL.a7/stparam=lbmtlqdhvj/fastid=jhbulwxbxvqeuvgdobwnvfbxnimr/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://gders.hit.gemius.pl/lshitredir/id=py01NL_X3VI8Jxawx2JWobPWP6L_d_827HcnvUekHpz.l7/fastid=nvlzhnlmhlakkybrmzqofqbhzvmx/stparam=ymegjqrtwo/roc=0/url="+encodeURIComponent('https://www.vipmobile.rs/privatni/device/huawei_p_smart_2021?utm_source=[13]polovniautomobili.com_unustrasnje_strane&utm_medium=aw_ld_html_300x600_huawei&utm_campaign=202102_hw_ulov-februar')))+"",
+        additionalHtml: ''
+    };
+
+    +function() {
+        
+    }();
+
+    billboard(config);
+ }]);
+
+

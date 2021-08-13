@@ -1,0 +1,1018 @@
+(function(){var d=window;d._AO_sendHits=function(h,l){var f={f:function(b){return b.split('[TIMESTAMP]').join((new Date).getTime())},g:function(b,a){if('[object Array]'===Object.prototype.toString.call(b)&&0<b.length){for(var c='',e=b.length-1;0<e;e--){var d=e-1===a?function(a){return a}:encodeURIComponent;b[e]&&(c=d(f.f(b[e])+c))}return c=f.f(b[0])+c}},j:function(b,a){a=f.g(b,a);if(!a)try{console.warn('AO: invalid hit chain',b)}catch(m){}else if(!d.navigator.sendBeacon||!d.navigator.sendBeacon(a,
+''))return a}},c={l:function(b){c.h(function(){for(var a=0;a<b.length;a++)b[a]&&c.a.contentWindow.s(b[a])})},a:null,c:[],i:function(){var b=d.document.getElementById('AO-hit');b&&'iframe'==b.tagName.toLowerCase()&&(c.a=b,c.c=b.b)},h:function(b){c.a||c.i();c.c.push(b);if(!c.a){var a=c.a=d.document.createElement('iframe');a.id='AO-hit';a.b=c.c;a.onload=function(){a.onload=null;var b=a.contentWindow.document;b.open();b.write('<scr'+'ipt>window.s=function(u){(new Image(1,1)).src=u}</scr'+'ipt>');try{b.close()}catch(e){}for(;a.b.length;)a.b.shift()();
+a.b={push:function(a){a()}}};a.src='javascript:false';a.width=a.height=a.frameBorder=a.style.border=0;a.style.display='none';d.document.getElementsByTagName('body')[0].appendChild(a)}}},g,k=[];for(g=0;g<h.length;g++)k.push(f.j(h[g],l));c.l(k)}})();
+function adoceansixjhoevlqup() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansixjhoevlqup', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=spmjntqizg/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansixjhoevlqup.isEmpty=1;
+function adoceansikkhlixonla() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansikkhlixonla', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhlemrtoij"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=bVBK5gNTz81CE6nXaVplaKQ9LeT6N6dI.73lMLUcHO3.D7/stparam=rcfgkqsgvd/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhlemrtoij",
+        targetID: "bbb.creativecskkklosjtsuuqmhlemrtoij",
+
+        width: "714",
+        height: "100",
+        align: "1",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/rpd/hmigfoj/ubqqhsgonq/Addiko-202011-16842-SRB-bann-infostud-714x100-pa-zahtev.png",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=bVBK5gNTz81CE6nXaVplaKQ9LeT6N6dI.73lMLUcHO3.D7/stparam=ubopgtisqe/fastid=nocmvvgbdfkforglypqecyzhlald/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.addiko.rs/asistirana-prodaja/?utm_source=polovni_automobili&utm_medium=desktop&utm_campaign=_a_asistirana_polovni_automobili&utm_term=714x100"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bVBK5gNTz81CE6nXaVplaKQ9LeT6N6dI.73lMLUcHO3.D7/stparam=ubopgtisqe/fastid=nocmvvgbdfkforglypqecyzhlald/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.addiko.rs/asistirana-prodaja/?utm_source=polovni_automobili&utm_medium=desktop&utm_campaign=_a_asistirana_polovni_automobili&utm_term=714x100"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=bVBK5gNTz81CE6nXaVplaKQ9LeT6N6dI.73lMLUcHO3.D7/stparam=xahjdwongj/fastid=ijaieswavazaeehfwpxbcrfonajn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansikkhlixonla.isEmpty=0;
+function adoceansizapsfskuab() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansizapsfskuab', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhenjkucjo"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=zhqtekkuaj/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+if(typeof gao === "undefined") gao = {};
+if(typeof gao.cb3d !== "object") gao.cb3d = [];
+
+gao.cb3d.push({
+    unique: "cskkklosjtsuuqmhenjkucjo",
+    host: "https://si.adocean.pl",
+    targetID: 'cskkklosjtsuuqmhenjkucjo',
+    width: 300,
+    height: 600,
+    rotateDelay: 0,
+    rotateDuration: 1000,
+    rotateInterval: 2000,
+    rotateManual: false,
+    rotateDirection: 1,
+    rotateAxis: 'Y',
+    responsive: false,
+    fitContainer: false,
+    alignCenter: false,
+    toplayer: false,
+    zIndexToplayer: '1000',
+    timeToStart: 0,
+    timeToClose: 15,
+    zIndex: '',
+    clicktagOverlay: "false" === "true",
+    redirection:
+        "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+    crossWidth: 60,
+    crossHeight: 60,
+    crossImage: "",
+    html5: {
+        "front": "",
+        "back": "",
+        "left": "",
+        "right": ""
+    },
+    images: {
+        "front": "https://si.adocean.pl/files/x/xhd/lenstnf/zipkgjphkj/IPG_zimske_gume_baner_3_300x600px_beli.jpg",
+        "back": "https://si.adocean.pl/files/x/xhd/lenstnf/wjgrjwimue/IPG_zimske_gume_baner_3_300x600px_beli.jpg",
+        "left": "https://si.adocean.pl/files/x/xhd/lenstnf/odonomkhck/300x600_put.jpg",
+        "right": "https://si.adocean.pl/files/x/xhd/lenstnf/lefeckemtf/300x600_put.jpg"
+    },
+    customTargetUrls: {
+        "front": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "back": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "left": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "right": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=mhjnbnqpbo/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+    },
+
+    nofollow: true
+});
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/cube3d_gao_lib.js"></scr'+'ipt>');
+
+
+
+document.write('');
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=pgchopglrt/fastid=bessykabticbtnklnwdyzhihnzlu/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansizapsfskuab.isEmpty=0;
+function adoceansimbhidmekyi() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansimbhidmekyi', arg:'', isEmpty:0});}
+(function() {
+    var gao = window.gao || (window.gao = {});
+
+    if(typeof gao._ct_p23_1 !== "object") gao._ct_p23_1 = [];
+
+    var config = {
+        unique: 'cskkklosjtsuuqmhnfhtugjt',
+        targetID: 'cskkklosjtsuuqmhnfhtugjt',
+        width: '300',
+        height: '250',
+        responsive: 0,
+
+        queue: [
+            {
+                type: 'adocean',
+                codes: "<script type=\"text/javascript\" src=\"//rs.adocean.pl/files/js/aomini.js\"><\/script>\r\n<div data-ao-pid=\"BdP1ovAAjeWuSjWWjocNH8Lr0ooagD3TAaJQ9fg6xBX.V7\" style=\"display: none;\"><\/div>\r\n<script type=\"text/javascript\">\r\n    /* (c)AdOcean 2003-2018 */\r\n    /* PLACEMENT: MediaPool_pmp.INFOSTUD GRUPA.Polovniautomobili.com.300x250 pretraga */\r\n    (window[\'aomini\'] || (window[\'aomini\'] = [])).push({\r\n        cmd: \'display\',\r\n        server: \'rs.adocean.pl\',\r\n        id: \'BdP1ovAAjeWuSjWWjocNH8Lr0ooagD3TAaJQ9fg6xBX.V7\',\r\n        consent: null\r\n    });\r\n<\/script>"
+            }
+        ],
+
+        sendHitFunc: (function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})(),
+        emissionHits: [["https://si.adocean.pl/event/nc=0/code=hRr_WFc3ZVXYM7LNkIuIXxcfwY5tkIQyjc5TGLaROcn.o7/eprog=12/data=","https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zIDgHPRcN5RH3hjLTqzwn4Yg.MgpF3A4HphpRMp.wL..h7/stparam=wdhnbsoslu/fastid=evaxasikpudxpmhvaoioiulugpme/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;"]],
+        secondPhaseFnct: 'adoceansimbhidmekyi_second_phase',
+        emitterOfferID: 'cskkklosjtsuuqmhkspkllqu',
+        host: 'https://si.adocean.pl',
+        additionalHtml: '',
+    };
+
+
+
+    gao._ct_p23_1.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/external_passback_gao_lib.js"></scr'+'ipt>');
+
+
+
+
+
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansimbhidmekyi.isEmpty=0;
+function adoceansipleebwpgtp() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansipleebwpgtp', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhgoemvkji"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=kdekhjdlya/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
++function() {
+    var config = {
+        unique: 'cskkklosjtsuuqmhgoemvkji',
+        htmlCode: "<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-5641030282947344\";\n/* PA_pretraga_300x250_desno posle 20. oglasa */\ngoogle_ad_slot = \"5223416845\";\ngoogle_ad_width = 300;\ngoogle_ad_height = 250;\n//-->\n<\/script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n<\/script>",
+        jsSrc: '',
+
+        image: {
+            src: '',
+            target: '',
+            clickTag: 'https://adocean-si.hit.gemius.pl/hitredir/id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=ncntdmjgsf/fastid=nmuxlccjoyufkyaqjvelugcathls/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=' + encodeURIComponent(''),
+            width: '',
+            height: '',
+            style: ''
+        }
+    };
+
+    if (config.image.src) {
+        var imgConf = config.image;
+
+        document.write('<a target="' + imgConf.target + '" href="' + imgConf.clickTag + '"><img id="' + config.unique + '_img" src="' + imgConf.src + '" WIDTH="' + imgConf.width + '" HEIGHT="' + imgConf.height + '" style="' + imgConf.style + '" border="0"></a>');
+
+        if (typeof gao === "object" && typeof gao.inscreenRegisterElement === "function") {
+            gao.inscreenRegisterElement("cskkklosjtsuuqmhgoemvkji_img", "cskkklosjtsuuqmhgoemvkji");
+        }
+    }
+
+    if (config.jsSrc) {
+        document.write('<script src="' + config.jsSrc + '"><\/script>');
+    }
+
+
+
+    if (config.htmlCode) {
+        document.write(config.htmlCode);
+    }
+}();
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=qbgnqoprng/fastid=hemddtufanskpqnpmxxuxyihvhnd/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansipleebwpgtp.isEmpty=0;
+function adoceansivbneiviulp() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansivbneiviulp', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=saipcinrws/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansivbneiviulp.isEmpty=1;
+function adoceansiukoeisffzo() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiukoeisffzo', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wcjtkiileq/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiukoeisffzo.isEmpty=1;
+function adoceansispilmrqqco() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansispilmrqqco', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=ogcomvdkxc/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansispilmrqqco.isEmpty=1;
+function adoceansilndickdtkz() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansilndickdtkz', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhkqkpxkkm"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=vhngblrmdn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhkqkpxkkm",
+        targetID: "bbb.creativecskkklosjtsuuqmhkqkpxkkm",
+
+        width: "440",
+        height: "1030",
+        align: "0",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/sbm/oewmkik/qiffhujpam/MB_Certified_PA_Banner_440x1030_R_V01_01.jpg",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=yggqnnhiis/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=yggqnnhiis/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=lgpjkqntot/fastid=htupzbfgeuvaytngqqndxakriomn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansilndickdtkz.isEmpty=0;
+function adoceansiynkofxmhxy() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiynkofxmhxy', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhdjiiipkr"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=mkcklsokcc/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhdjiiipkr",
+        targetID: "bbb.creativecskkklosjtsuuqmhdjiiipkr",
+
+        width: "440",
+        height: "1030",
+        align: "2",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/sbm/oewmkik/njmlkrdukh/MB_Certified_PA_Banner_440x1030_L_V01_01.jpg",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=pjlthveghh/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=pjlthveghh/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=sieneilryi/fastid=htupzbfgeuvaytngqqndxakriomn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansiynkofxmhxy.isEmpty=0;
+function adoceansiommromjote() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiommromjote', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhmrfridlw"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=zkjqlmjkrz/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+
+    if(typeof gao.mediaRoom !== "object") gao.mediaRoom = [];
+
+    var config = {
+        unique: 'cskkklosjtsuuqmhmrfridlw',
+        targetID: 'cskkklosjtsuuqmhmrfridlw',
+
+        container: {
+            width: '970',
+            height: '250',
+            paddingTop: '',
+            paddingBottom: '',
+            responsive: 0,
+            zIndex: '',
+
+            background: {
+                color: '',
+                image: 'https://si.adocean.pl/files/x/sbm/oewmkik/xajkevmjdv/970x250_1.JPG',
+                size: 'cover',
+                position: 'center',
+                repeat: 'repeat'
+            },
+            html5Background: '',
+        },
+
+        controls: {
+            redir: 'https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=mkckippfse/fastid=kidvmvwcsxvjcsmyicikeezvewmw/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=',
+            defaultTargetUrl: 'https://www.polovniautomobili.com/mercedes-benz-certified',
+            autoRotation: 1,
+            drag: 1,
+            arrows: 1,
+
+            arrow: {
+                fillColor: '',
+                background: '',
+                size: '',
+                altImage: ''
+            },
+
+            interactions: {}
+        },
+
+        carousel: {
+            itemWidth: '300',
+            itemHeight: '200',
+            perspectiveOrigin: '_BOTTOM_',
+            itemBGColor: '',
+            imageItemOptions: {
+                size: '',
+                position: '',
+                repeat: ''
+            },
+
+            items: [
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/ngnsquqnez/1.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/16955768/mercedes-benz-e-220-d-4matic'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/khejesksvu/2.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/15747460/mercedes-benz-gle-350-d-4-matic-demo'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/xhlphpehet/3.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/15174157/mercedes-benz-glb-200-test'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/uicglmolzo/4.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17372873/mercedes-benz-gla-180'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/rjjmojiqjj/5.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/15418630/mercedes-benz-glc-220-d-4m'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/okqsbxruie/6.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17480705/mercedes-benz-b-180-urbanprogressive'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/llhjfuljyd/7.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17480673/mercedes-benz-b-180-urbanprogressive'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/ylopirfoxy/8.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17480618/mercedes-benz-b-180-d'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/vmfgmopsst/9.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17480491/mercedes-benz-b-180-d'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/snmmpljhms/10.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17480331/mercedes-benz-b-180-urbanprogressive'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/podtcjdmsn/11.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17516103/mercedes-benz-e-200-d'},
+                {img: 'https://si.adocean.pl/files/x/sbm/oewmkik/mpkjgwmqri/12.jpg', video: '', targetUrl: 'https://www.polovniautomobili.com/auto-oglasi/17515287/mercedes-benz-a-160-urbanprogressive'}
+            ]
+        },
+
+        closeButton: {
+            display: 0,
+            size: '',
+            altImage: ''
+        },
+
+        host: 'https://si.adocean.pl',
+        additionalHtml: ''
+    };
+
+    gao.mediaRoom.push(config);
+})();
+
+
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/media_room_gao_lib.js"></scr'+'ipt>');
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=pjltesfrnf/fastid=gkxesdwaygkrcumxfzkwixgcgwmr/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansiommromjote.isEmpty=0;
+function adoceansinhljqtfpkn() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansinhljqtfpkn', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wfpojifjck/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansinhljqtfpkn.isEmpty=1;
+function adoceansiqedsqqlmls() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiqedsqqlmls', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wjliospiuo/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiqedsqqlmls.isEmpty=1;
+function adoceansizdjequotzh() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansizdjequotzh', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhhlolkplv"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=vlffbmemmn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhhlolkplv",
+        targetID: "bbb.creativecskkklosjtsuuqmhhlolkplv",
+
+        width: "300",
+        height: "250",
+        align: "1",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/wfp/mjkfgze/vceipxephn/novi-zdravstveno-(300x250).png",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=ykoonokhvs/fastid=gjrrruynmnymjunjsqtzvkeqpcor/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.osiguranik.com/osiguranje/dobrovoljno-zdravstveno-osiguranje/dobrovoljno-zdravstveno-osiguranje-zaposlenih/?utm_source=infostud&utm_medium=banner&utm_campaign=DZO-muskarac"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=ykoonokhvs/fastid=gjrrruynmnymjunjsqtzvkeqpcor/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.osiguranik.com/osiguranje/dobrovoljno-zdravstveno-osiguranje/dobrovoljno-zdravstveno-osiguranje-zaposlenih/?utm_source=infostud&utm_medium=banner&utm_campaign=DZO-muskarac"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=lkhikrqsmt/fastid=bcynhnqhafclanjxtgrzrckxrcky/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansizdjequotzh.isEmpty=0;
+function adoceansirlfllppjjj() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansirlfllppjjj', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=kgfninpnya/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansirlfllppjjj.isEmpty=1;
+function adoceansixgeppvriyv() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansixgeppvriyv', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=welljxshug/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansixgeppvriyv.isEmpty=1;
+function adoceansisknnnigsoq() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansisknnnigsoq', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhsehgmlmu"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=lnfmlujokz/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
++function() {
+    var config = {
+        unique: 'cskkklosjtsuuqmhsehgmlmu',
+        htmlCode: "<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-5641030282947344\";\n/* PA_pretraga_300x250_levo posle 20. oglasa */\ngoogle_ad_slot = \"3425240125\";\ngoogle_ad_width = 300;\ngoogle_ad_height = 250;\n//-->\n<\/script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n<\/script>",
+        jsSrc: '',
+
+        image: {
+            src: '',
+            target: '',
+            clickTag: 'https://adocean-si.hit.gemius.pl/hitredir/id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=omofixpjpe/fastid=hpaumdkilzvmazfgihzkftgxzsmo/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=' + encodeURIComponent(''),
+            width: '',
+            height: '',
+            style: ''
+        }
+    };
+
+    if (config.image.src) {
+        var imgConf = config.image;
+
+        document.write('<a target="' + imgConf.target + '" href="' + imgConf.clickTag + '"><img id="' + config.unique + '_img" src="' + imgConf.src + '" WIDTH="' + imgConf.width + '" HEIGHT="' + imgConf.height + '" style="' + imgConf.style + '" border="0"></a>');
+
+        if (typeof gao === "object" && typeof gao.inscreenRegisterElement === "function") {
+            gao.inscreenRegisterElement("cskkklosjtsuuqmhsehgmlmu_img", "cskkklosjtsuuqmhsehgmlmu");
+        }
+    }
+
+    if (config.jsSrc) {
+        document.write('<script src="' + config.jsSrc + '"><\/script>');
+    }
+
+
+
+    if (config.htmlCode) {
+        document.write(config.htmlCode);
+    }
+}();
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=1vXlnWuv0dv2ugQc7.Ke0ZbyLVUgPo9Ao4tj.bNCptT.s7/stparam=rlhpekgfqj/fastid=gndvyviilfuldchotnguvlnfbsls/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansisknnnigsoq.isEmpty=0;
+function adoceansirkrhlonimf() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansirkrhlonimf', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhlnepmpmj"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=wihsqxqtss/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhlnepmpmj",
+        targetID: "bbb.creativecskkklosjtsuuqmhlnepmpmj",
+
+        width: "300",
+        height: "250",
+        align: "1",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/wfp/mjkfgze/njmlkrdukh/OS---kasko-osiguranje---baneri300x250.png",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=zhqlnkhptx/fastid=dpfwngoawvidavfatbfnnutqtqln/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.osiguranik.com/osiguranje/kasko-osiguranje/kupovina-online/?utm_source=PA_sajt&utm_medium=300x250&utm_campaign=kasko"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=zhqlnkhptx/fastid=dpfwngoawvidavfatbfnnutqtqln/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.osiguranik.com/osiguranje/kasko-osiguranje/kupovina-online/?utm_source=PA_sajt&utm_medium=300x250&utm_campaign=kasko"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=nFhFBIR4.QvNSVZj.I7PU9U5.qiZfUb2vFS2bxy7bU..o7/stparam=mhjfknnkuc/fastid=ascscicalwogqdcttfgphmzxvqlg/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansirkrhlonimf.isEmpty=0;
+function adoceansipaqrpokfhn() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansipaqrpokfhn', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=sjohkklmgm/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansipaqrpokfhn.isEmpty=1;
+function adoceansitcnpmmonpv() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansitcnpmmonpv', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=sffnojnphe/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansitcnpmmonpv.isEmpty=1;
+function adoceansiwbgjjpejqa() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiwbgjjpejqa', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=ocjtqufnnu/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiwbgjjpejqa.isEmpty=1;
+function adoceansikpktioqgnc() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansikpktioqgnc', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wjfkmpgtns/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansikpktioqgnc.isEmpty=1;
+function adoceansirnqqelqown() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansirnqqelqown', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=obonlqjune/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansirnqqelqown.isEmpty=1;
+function adoceansilkqinkjldf() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansilkqinkjldf', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wbmspkqrau/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansilkqinkjldf.isEmpty=1;
+function adoceansizboogjoomd() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansizboogjoomd', arg:'', isEmpty:0});}
+(function() {
+    var gao = window.gao || (window.gao = {});
+
+    if(typeof gao._ct_p23_1 !== "object") gao._ct_p23_1 = [];
+
+    var config = {
+        unique: 'cskkklosjtsuuqmhkjdnqlom',
+        targetID: 'cskkklosjtsuuqmhkjdnqlom',
+        width: '300',
+        height: '600',
+        responsive: 0,
+
+        queue: [
+            {
+                type: 'adocean',
+                codes: "<script type=\"text/javascript\" src=\"//rs.adocean.pl/files/js/aomini.js\"><\/script>\r\n<div data-ao-pid=\"_weg5qc4l3p6v5cjEqsldvlCIoYw_15UUhLAssWSBI3.z7\" style=\"display: none;\"><\/div>\r\n<script type=\"text/javascript\">\r\n    /* (c)AdOcean 2003-2019 */\r\n    /* PLACEMENT: MediaPool_pmp.INFOSTUD GRUPA.Polovniautomobili.com.300x600 pretraga */\r\n    (window[\'aomini\'] || (window[\'aomini\'] = [])).push({\r\n        cmd: \'display\',\r\n        server: \'rs.adocean.pl\',\r\n        id: \'_weg5qc4l3p6v5cjEqsldvlCIoYw_15UUhLAssWSBI3.z7\',\r\n        consent: null\r\n    });\r\n<\/script>"
+            }
+        ],
+
+        sendHitFunc: (function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})(),
+        emissionHits: [["https://si.adocean.pl/event/nc=0/code=f5quoa.SJSrBM.Iv90MxzGWgI4xq949vlPaEQta4P3f.P7/eprog=12/data=","https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zIDgHPRcN5RH3hjLTqzwn4Yg.MgpF3A4HphpRMp.wL..h7/stparam=ynctmmjhng/fastid=egyecrmdljrzdufqbcnhnkfgdpjt/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;"]],
+        secondPhaseFnct: 'adoceansizboogjoomd_second_phase',
+        emitterOfferID: 'cskkklosjtsuuqmhdlntlpqj',
+        host: 'https://si.adocean.pl',
+        forceIframe: 0,
+        additionalHtml: '',
+    };
+
+
+
+    gao._ct_p23_1.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/external_passback_gao_lib.js"></scr'+'ipt>');
+
+
+
+
+
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansizboogjoomd.isEmpty=0;
+function adoceansiojjsjnpgik() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiojjsjnpgik', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=sopicwiprk/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiojjsjnpgik.isEmpty=1;
+function adoceansiwcffkwhthy() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiwcffkwhthy', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhmkoordpw"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=tmhnfkmibr/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhmkoordpw",
+        targetID: "bbb.creativecskkklosjtsuuqmhmkoordpw",
+
+        width: "440",
+        height: "1030",
+        align: "0",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/sbm/oewmkik/qiffhujpam/MB_Certified_PA_Banner_440x1030_R_V01_01.jpg",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=wlqgcnstws/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=wlqgcnstws/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=zkjqopipbx/fastid=htupzbfgeuvaytngqqndxakriomn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansiwcffkwhthy.isEmpty=0;
+function adoceansiuhlfdtlneq() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiuhlfdtlneq', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=kihfhmkkkq/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiuhlfdtlneq.isEmpty=1;
+function adoceansivorejugmst() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansivorejugmst', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=kdgepqmhos/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansivorejugmst.isEmpty=1;
+function adoceansitdmlntrhqx() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansitdmlntrhqx', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhhehjtppv"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=kpmqprjgpg/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.billboardv2 !== "object") gao.billboardv2 = [];
+
+    var config = {
+        unique: "cskkklosjtsuuqmhhehjtppv",
+        targetID: "bbb.creativecskkklosjtsuuqmhhehjtppv",
+
+        width: "440",
+        height: "1030",
+        align: "2",
+        responsive: 0,
+
+        html5: "",
+        clickTagOverlay: 0,
+        htmlFiFCode: "",
+        image: "https://si.adocean.pl/files/x/sbm/oewmkik/njmlkrdukh/MB_Certified_PA_Banner_440x1030_L_V01_01.jpg",
+
+        extraContainer: {
+            display: 0,
+            title: "",
+            top: "",
+            height: "",
+            backgroundColor: "",
+            color: ""
+        },
+
+        snowEffect: 0,
+        clickTag: "https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=nofkmuprvh/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        redirection: "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=nofkmuprvh/fastid=ixxspefjccslcumgcuhbfiekgojv/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("https://www.polovniautomobili.com/mercedes-benz-certified"),
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.billboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/billboard_v2_gao_lib.js"></scr'+'ipt>');
+
+if (typeof window.addEventListener == "function") {
+    window.addEventListener("message", function(message) {
+        if (message.origin == "https://si.adocean.pl" || "".indexOf(message.origin) >= 0) {
+            if (typeof window[message.data] == "function") {
+                window[message.data]();
+            }
+        }
+    });
+}
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=d1BA4oMHq54eLKHhtrMJGnZHzSU1nU9FacdQK1jEBoz.W7/stparam=qnotixfnam/fastid=htupzbfgeuvaytngqqndxakriomn/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+}
+adoceansitdmlntrhqx.isEmpty=0;
+function adoceansiricmgqfszl() {
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansiricmgqfszl', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=oldperrmia/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+}
+adoceansiricmgqfszl.isEmpty=1;
+function adoceansimbhidmekyi_second_phase() {
+
+if (typeof AdOceanRTBAuctionAdServerBids==="undefined") AdOceanRTBAuctionAdServerBids={};
+(function(){
+var passbackCustomData={ecpm:'0', isDefault: 1};
+var passbackFunction=function(){
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansimbhidmekyi', arg:'', isEmpty:1});}
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"https://si.adocean.pl/event/nc=0/code=JZGpRr9xY7NJRoMm1ulWFlWukjDSAuMzcZEKlM04KBb.07/eprog=12/data=\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=zUBL_WLQPEIiRyNY17vNure9LXTYFY9QBSdDJbnQkG3.R7/stparam=wmkrhpsoew/fastid=lxgbcoalfybonrcyhnhrspjujlli/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+
+};
+if (typeof ado=="object" && typeof ado._registerPassback=="function"){
+ado._registerPassback(
+  "adoceansimbhidmekyi",
+  "cskkklosjtsuuqmhkspkllqu",
+  passbackCustomData,
+  passbackFunction
+);}
+AdOceanRTBAuctionAdServerBids['cskkklosjtsuuqmhkspkllqu']=passbackCustomData;
+AdOceanRTBAuctionAdServerBids['cskkklosjtsuuqmhkspkllqu']['creative']=passbackFunction;
+})();
+
+}
+adoceansimbhidmekyi_second_phase.isEmpty=1;
+function adoceansizboogjoomd_second_phase() {
+
+if (typeof AdOceanRTBAuctionAdServerBids==="undefined") AdOceanRTBAuctionAdServerBids={};
+(function(){
+var passbackCustomData={ecpm:'0', isDefault: 0};
+var passbackFunction=function(){
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'adoceansizboogjoomd', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://adocean-si.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["cskkklosjtsuuqmhsnptulqu"]="https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=tpmsondktx/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0"}("undefined");
+if(typeof gao === "undefined") gao = {};
+if(typeof gao.cb3d !== "object") gao.cb3d = [];
+
+gao.cb3d.push({
+    unique: "cskkklosjtsuuqmhsnptulqu",
+    host: "https://si.adocean.pl",
+    targetID: 'cskkklosjtsuuqmhsnptulqu',
+    width: 300,
+    height: 600,
+    rotateDelay: 0,
+    rotateDuration: 1000,
+    rotateInterval: 2000,
+    rotateManual: false,
+    rotateDirection: 1,
+    rotateAxis: 'Y',
+    responsive: false,
+    fitContainer: false,
+    alignCenter: false,
+    toplayer: false,
+    zIndexToplayer: '1000',
+    timeToStart: 0,
+    timeToClose: 15,
+    zIndex: '',
+    clicktagOverlay: "false" === "true",
+    redirection:
+        "clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+        + "&clickTag=https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url="+encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+    crossWidth: 60,
+    crossHeight: 60,
+    crossImage: "",
+    html5: {
+        "front": "",
+        "back": "",
+        "left": "",
+        "right": ""
+    },
+    images: {
+        "front": "https://si.adocean.pl/files/x/xhd/lenstnf/zipkgjphkj/IPG_zimske_gume_baner_3_300x600px_beli.jpg",
+        "back": "https://si.adocean.pl/files/x/xhd/lenstnf/wjgrjwimue/IPG_zimske_gume_baner_3_300x600px_beli.jpg",
+        "left": "https://si.adocean.pl/files/x/xhd/lenstnf/odonomkhck/300x600_put.jpg",
+        "right": "https://si.adocean.pl/files/x/xhd/lenstnf/lefeckemtf/300x600_put.jpg"
+    },
+    customTargetUrls: {
+        "front": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "back": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "left": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020"),
+        "right": "https://adocean-si.hit.gemius.pl/hitredir/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=wofmlqjfjc/fastid=elagknwasivkufibtowqppcalzlk/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;/url=" + encodeURIComponent("" || "https://www.internet-prodaja-guma.com/search?param%5Bef_dimensions%5D%5B%5D=x-x-x&param%5Bef_kategorija%5D%5B%5D=Auto%20gume&search%5Bwidth%5D%5B%5D=x&search%5Bradius%5D=x&param%5Bef_sezona%5D%5B%5D=zimska&param%5Bef_proizvodjac%5D%5B%5D=0&utm_source=polovniautomobili.com&utm_medium=banner_kvadratni&utm_campaign=zima_2020")
+    },
+
+    nofollow: true
+});
+
+document.write('<scr'+'ipt src="https://si.adocean.pl/files/js/cube3d_gao_lib.js"></scr'+'ipt>');
+
+
+
+document.write('');
+
+document.write('<scr'+'ipt>+(function(){return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})()([[\"https://si.adocean.pl/event/nc=0/code=JX4OAbcJcXtdNY9IKmzN50UyQlCC7sNxV289FMzYlKD.y7/eprog=12/data=\",\"https://adocean-si.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=bPngIgNwG4HsFaDdV6XYRna5jzM1NOcik_Vg3lZ89cL.V7/stparam=znofitpqed/fastid=bessykabticbtnklnwdyzhihnzlu/sarg=5FDC27EDA01616B1%7C_cdata%3A2127809_0%2C2106073_0%2C2096979_0%2C2096982_0%2C2135888_0%2C2140114_0%2C2148438_0%2C2165891_0%2C2165976_0%2C2201430_0%2C2264931_0%2C2303484_0%2C2312929_0%2C2347594_0%2C2390403_0%2C2415972_0%2C2426223_0%2C2432761_0%2C2439890_0%2C2499833_0%2C2529035_0%2C2668961_0%2C2669807_0/extra=;\"]]);</scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+};
+if (typeof ado=="object" && typeof ado._registerPassback=="function"){
+ado._registerPassback(
+  "adoceansizboogjoomd",
+  "cskkklosjtsuuqmhdlntlpqj",
+  passbackCustomData,
+  passbackFunction
+);}
+AdOceanRTBAuctionAdServerBids['cskkklosjtsuuqmhdlntlpqj']=passbackCustomData;
+AdOceanRTBAuctionAdServerBids['cskkklosjtsuuqmhdlntlpqj']['creative']=passbackFunction;
+})();
+
+}
+adoceansizboogjoomd_second_phase.isEmpty=0;
