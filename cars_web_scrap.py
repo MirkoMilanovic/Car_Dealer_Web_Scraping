@@ -5,6 +5,7 @@ The program does a web-scrapping for all of the advertisements of the cars on th
 import requests
 from bs4 import BeautifulSoup
 import re
+import pandas
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0',
@@ -19,29 +20,41 @@ for article in soup.find_all("small"):
 all = soup.find_all("article", class_=re.compile("single-classified ad-"))
 
 
+l = []
+
 for item in all:
-    print(item.find("a", {"class": "ga-title"}).text.strip())  # print the car title
+    d = {}  # new record for one car
+
+    d["Title"]=item.find("a", {"class": "ga-title"}).text.strip()  # car title
 
     try:
-        print(item.find("span", {"class": "price"}).text.strip())   # price
+        d["Price"]=item.find("span", {"class": "price"}).text.strip()   # price
     except:
-        print(None)
+        d["Price"]=None
 
     try:
-        print(item.find("span", {"class": "price old-price"}).text.strip())   # old price
+        d["Old Price"]=item.find("span", {"class": "price old-price"}).text.strip()   # old price
     except:
-        print(None)
+        d["Old Price"]=None
 
     try:
-        print(item.find("span", {"class": "price price-discount"}).text.strip())   # discount price
+        d["Discount Price"]=item.find("span", {"class": "price price-discount"}).text.strip()   # discount price
     except:
-        print(None)
+        d["Discount Price"]=None
 
-    print(item.find_all("div", class_=re.compile("inline-block"))[0].text.replace("|", "").replace(".", "").replace(" ", "").strip())    # year
-    print(item.find_all("div", class_=re.compile("inline-block"))[1].text.replace("|", "").replace("km", "").replace(" ", "").strip())   # mileage in km
-    print(item.find_all("div", class_=re.compile("inline-block"))[2].text.replace("|", "").replace(".", "").replace(" ", "").strip())    # fuel
-    print(item.find_all("div", class_=re.compile("inline-block"))[3].text.replace("cm3", "").replace(",", "").replace(" ", "").strip())    # engine volume cm3
-    print(item.find_all("div", class_=re.compile("inline-block"))[4].text.replace(",", "").replace(" ", "").strip())    # car class
-    print(item.find_all("div", class_=re.compile("inline-block"))[5].text.replace(",", "").replace(" ", "").strip())    # engine power
+    d["Year"]=item.find_all("div", class_=re.compile("inline-block"))[0].text.replace("|", "").replace(".", "").replace(" ", "").strip()    # year
+    d["Mileage"]=item.find_all("div", class_=re.compile("inline-block"))[1].text.replace("|", "").replace("km", "").replace(" ", "").strip()   # mileage in km
+    d["Fuel"]=item.find_all("div", class_=re.compile("inline-block"))[2].text.replace("|", "").replace(".", "").replace(" ", "").strip()    # fuel
+    d["Engine Volume"]=item.find_all("div", class_=re.compile("inline-block"))[3].text.replace("cm3", "").replace(",", "").replace(" ", "").strip()    # engine volume cm3
+    d["Car Class"]=item.find_all("div", class_=re.compile("inline-block"))[4].text.replace(",", "").replace(" ", "").strip()    # car class
+    d["Engine Power"]=item.find_all("div", class_=re.compile("inline-block"))[5].text.replace(",", "").replace(" ", "").strip()    # engine power
 
-    print("\n")
+    l.append(d)
+
+
+print(l)
+print(len(l))
+
+df = pandas.DataFrame(l)
+print(df)
+df.to_csv("Car-list-output.csv", encoding='utf8')
